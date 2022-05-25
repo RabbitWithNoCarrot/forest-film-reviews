@@ -1,14 +1,26 @@
 body {
-    background-image: url('vermin gifs/vermin misc/crackedice.jpg');
-  }
-  h1 {
-    color: black;
-    text-align: center;
-  }
-  p1 {
-    color: black;
-    text-align: center;
-  }
-  div {
-    align-items: center;
-  }
+  background-image: url('images/stars bg.gif');
+}
+h1 {
+  color: white;
+  text-align: center;
+}
+h2 {
+  color: white;
+  text-align: center;
+}
+p1 {
+  color: white;
+  text-align: center;
+}
+p {
+  color: white;
+  text-align: center;
+}
+div {
+  align-items: center;
+}
+summary {
+  color: white;
+  text-align: center;
+}
